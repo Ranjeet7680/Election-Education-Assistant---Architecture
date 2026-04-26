@@ -1,0 +1,61 @@
+{
+  "totalVotes": 645363445,
+  "totalSeats": 543,
+  "parties": [
+    {
+      "name": "Bharatiya Janata Party",
+      "votes": 235973935,
+      "seats": 240
+    },
+    {
+      "name": "Indian National Congress",
+      "votes": 136759064,
+      "seats": 99
+    },
+    {
+      "name": "Samajwadi Party",
+      "votes": 29549381,
+      "seats": 37
+    },
+    {
+      "name": "All India Trinamool Congress",
+      "votes": 28213393,
+      "seats": 29
+    },
+    {
+      "name": "Dravida Munnetra Kazhagam",
+      "votes": 11754710,
+      "seats": 22
+    },
+    {
+      "name": "Telugu Desam",
+      "votes": 12775270,
+      "seats": 16
+    },
+    {
+      "name": "Janata Dal  (United)",
+      "votes": 8039663,
+      "seats": 12
+    },
+    {
+      "name": "Shiv Sena (Uddhav Balasaheb Thackrey)",
+      "votes": 9567779,
+      "seats": 9
+    },
+    {
+      "name": "Nationalist Congress Party \u2013 Sharadchandra Pawar",
+      "votes": 5921162,
+      "seats": 8
+    },
+    {
+      "name": "Shiv Sena",
+      "votes": 7401447,
+      "seats": 7
+    },
+    {
+      "name": "Others",
+      "votes": 159407641,
+      "seats": 64
+    }
+  ]
+}

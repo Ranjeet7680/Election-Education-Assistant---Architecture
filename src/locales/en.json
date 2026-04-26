@@ -1,0 +1,72 @@
+{
+  "common": {
+    "welcome": "Welcome to Election Education Assistant",
+    "loading": "Loading...",
+    "error": "Something went wrong",
+    "retry": "Try Again",
+    "next": "Next",
+    "previous": "Previous",
+    "submit": "Submit",
+    "cancel": "Cancel"
+  },
+  "navigation": {
+    "home": "Home",
+    "learn": "Learn",
+    "register": "Register",
+    "quiz": "Quiz",
+    "timeline": "Timeline",
+    "help": "Help"
+  },
+  "home": {
+    "title": "Your Guide to Voting",
+    "subtitle": "Learn how elections work, step by step",
+    "cta": "Get Started",
+    "firstTimeVoter": "First time voter?",
+    "returningVoter": "Need a refresher?"
+  },
+  "registration": {
+    "title": "Voter Registration",
+    "checkEligibility": "Check Eligibility",
+    "gatherDocuments": "Gather Documents",
+    "applyOnline": "Apply Online",
+    "trackStatus": "Track Status"
+  },
+  "voting": {
+    "title": "How to Vote",
+    "step1": "Check Your Registration",
+    "step2": "Find Your Polling Booth",
+    "step3": "Prepare Documents",
+    "step4": "Visit Polling Station",
+    "step5": "Verification",
+    "step6": "Cast Your Vote",
+    "step7": "Exit"
+  },
+  "quiz": {
+    "title": "Test Your Knowledge",
+    "start": "Start Quiz",
+    "question": "Question",
+    "of": "of",
+    "submit": "Submit Answer",
+    "next": "Next Question",
+    "results": "Quiz Results",
+    "score": "Your Score",
+    "correct": "Correct",
+    "incorrect": "Incorrect",
+    "explanation": "Explanation",
+    "retake": "Retake Quiz"
+  },
+  "badges": {
+    "title": "Your Achievements",
+    "earned": "Earned",
+    "locked": "Locked",
+    "share": "Share Achievement"
+  },
+  "timeline": {
+    "title": "Election Timeline",
+    "active": "Active",
+    "upcoming": "Upcoming",
+    "completed": "Completed",
+    "yourAction": "Your Action",
+    "deadline": "Deadline"
+  }
+}
